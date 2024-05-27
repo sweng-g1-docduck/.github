@@ -17,4 +17,4 @@ Our product is intended to provide businesses with an application that increases
 
 ### You can find out more on our website here:
 
-[DocDuck Website](https://docduck.000webhostapp.com)
+[DocDuck Website](https://docduck-website.pages.dev)
